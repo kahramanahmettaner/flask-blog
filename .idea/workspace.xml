@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48aaa103-4e43-4292-b246-21b37cf08d59" name="Changes" comment="added the functionalities, that user can add, update and delete a post">
+    <list default="true" id="48aaa103-4e43-4292-b246-21b37cf08d59" name="Changes" comment="changed Bootstrap version from 5.0 to 4.0 to fix design issues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/static/profile_pics/7b411246705ce42f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/site.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675441667012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed Bootstrap version from 5.0 to 4.0 to fix design issues">
+      <created>1675441843859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441843859</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +150,7 @@
     <MESSAGE value="implemented user authentication" />
     <MESSAGE value="implemented account page, so that users can update account information" />
     <MESSAGE value="added the functionalities, that user can add, update and delete a post" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the functionalities, that user can add, update and delete a post" />
+    <MESSAGE value="changed Bootstrap version from 5.0 to 4.0 to fix design issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Bootstrap version from 5.0 to 4.0 to fix design issues" />
   </component>
 </project>
