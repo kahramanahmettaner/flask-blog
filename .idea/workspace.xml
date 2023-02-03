@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48aaa103-4e43-4292-b246-21b37cf08d59" name="Changes" comment="implemented account page, so that users can update account information">
+    <list default="true" id="48aaa103-4e43-4292-b246-21b37cf08d59" name="Changes" comment="added the functionalities, that user can add, update and delete a post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/site.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674593544900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added the functionalities, that user can add, update and delete a post">
+      <created>1675441667012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441667012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +138,7 @@
     <MESSAGE value="restructured the application" />
     <MESSAGE value="implemented user authentication" />
     <MESSAGE value="implemented account page, so that users can update account information" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented account page, so that users can update account information" />
+    <MESSAGE value="added the functionalities, that user can add, update and delete a post" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the functionalities, that user can add, update and delete a post" />
   </component>
 </project>
